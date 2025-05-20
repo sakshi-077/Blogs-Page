@@ -1,0 +1,11 @@
+.icon{
+  color : maroon;
+}
+.post{
+  background-color: rgb(189, 148, 107);
+  text-align: left;
+  margin : 10px; 
+}
+.user{
+  font-style: italic;
+}
